@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF Challenge Solver
+  short_description: Triage a CTF challenge and route it to the right category skill.
+  category: developer
