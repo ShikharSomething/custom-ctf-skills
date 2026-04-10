@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF Forensics
+  short_description: Forensics and signal-analysis guidance for disk, memory, network, and stego challenges.
+  category: developer

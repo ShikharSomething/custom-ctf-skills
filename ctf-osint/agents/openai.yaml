@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF OSINT
+  short_description: Open-source intelligence guidance for geolocation, social media, and DNS research.
+  category: developer

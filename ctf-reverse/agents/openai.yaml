@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF Reverse
+  short_description: Reverse engineering guidance for binaries, APKs, VMs, firmware, and anti-analysis.
+  category: developer

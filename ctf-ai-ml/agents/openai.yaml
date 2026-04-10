@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF AI/ML
+  short_description: AI and machine-learning challenge guidance for model extraction, prompts, and adversarial ML.
+  category: developer

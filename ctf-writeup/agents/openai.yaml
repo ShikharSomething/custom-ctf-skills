@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF Writeup
+  short_description: Generate a clean post-solve writeup for submission, handoff, or organizer review.
+  category: developer

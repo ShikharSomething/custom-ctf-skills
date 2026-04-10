@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF Web
+  short_description: Web exploitation guidance for HTTP apps, APIs, auth flows, and browser bugs.
+  category: developer

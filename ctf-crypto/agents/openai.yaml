@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF Crypto
+  short_description: Cryptography attack notes for RSA, AES, ECC, lattices, PRNGs, and related math.
+  category: developer

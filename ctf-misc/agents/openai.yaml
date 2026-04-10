@@ -1,0 +1,4 @@
+interface:
+  display_name: CTF Misc
+  short_description: Fallback guidance for jails, encodings, RF/SDR, esolangs, and hybrid puzzles.
+  category: developer
